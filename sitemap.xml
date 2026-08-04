@@ -8,7 +8,13 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://derycode.publicvm.com/founder.webp</image:loc>
-      <image:title>Asiimwe Derick — Founder of DeryCode, Software Engineer & Blockchain Developer in Uganda</image:title>
+      <image:title>Asiimwe Derick — Founder of DeryCode</image:title>
     </image:image>
+  </url>
+  <url>
+    <loc>https://asiimwe3.github.io/links.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
